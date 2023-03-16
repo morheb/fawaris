@@ -81,7 +81,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 onPressed: () async {
                   await sendEmail();
                 },
-                child: Text("send order"))
+                child: Text("send order!"))
           ],
         ),
       ),
